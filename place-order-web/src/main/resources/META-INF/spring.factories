@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.mosey.ddd.web.placeorder.config.PlaceOrderWebAutoConfig
